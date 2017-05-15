@@ -1,0 +1,40 @@
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\csc.exe
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\vbc.exe
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\Analysis.dll.config
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\Analysis.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\Analysis.pdb
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\obj\Debug\Analysis.dll
+C:\Users\Isabela\Documents\Fanshawe\WINTER17\OOP Web Development - INFO 3114\Exercises\project\Project#2\Analysis\Analysis\obj\Debug\Analysis.pdb
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\csc.exe
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\vbc.exe
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\Analysis.dll.config
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\Analysis.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\Analysis.pdb
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\obj\Debug\Analysis.dll
+C:\Users\Isabela\Documents\Fanshawe\To Present\Project OOP\Analysis\Analysis\obj\Debug\Analysis.pdb
